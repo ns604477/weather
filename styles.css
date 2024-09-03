@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    margin-top: 20px;
+  }
+  body {
+    background-image: url('/unnamed.png');
+    background-size: cover; /* This ensures the image covers the whole screen */
+    background-position: center; /* This centers the image */
+    background-repeat: no-repeat; /* This prevents the image from repeating */
+  }
+  
